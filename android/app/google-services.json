@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "415813565933",
+    "project_id": "sparkpluzzapp",
+    "storage_bucket": "sparkpluzzapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415813565933:android:f7cb1350fb45ffd44b3be4",
+        "android_client_info": {
+          "package_name": "com.example.sparkplugzapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415813565933-87hpn2cb5g5saf3upobqik8ca2a0ovav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAp6t6XXaHq1EhLtVXEP4qz5K5qoYNOjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415813565933-87hpn2cb5g5saf3upobqik8ca2a0ovav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
